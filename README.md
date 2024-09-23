@@ -1,7 +1,7 @@
 [![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXQ5ZXRyeG5zaWg0dmR2dXh3czFnbnRweDRlc3hqMjBldTIxa3locCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif)](https://CodieYS.io)
 <h1 align="center">Hi 👋, I'm Yash Sukhija</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://www.shutterstock.com/image-photo/web-development-concept-person-using-260nw-1890313726.jpg" />
+<img align="center" alt="Coding" width="100%" src="https://www.shutterstock.com/image-photo/web-development-concept-person-using-260nw-1890313726.jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codieys&label=Profile%20views&color=0e75b6&style=flat" alt="codieys" /> </p>
 
